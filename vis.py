@@ -5,7 +5,7 @@ import pandas as pd
 import plotly.express as px
 import streamlit as st
 import requests as rq
-import ptvsd
+
 
 # fileDay = "26_06_2022"
 
