@@ -59,7 +59,6 @@ def main():
     headers = {}
 
     response = rq.request("GET", url, headers=headers, data=payload)
-    breakpoint()
 
     # with open(fileName, "r") as f:
     #     lines = f.readlines()
