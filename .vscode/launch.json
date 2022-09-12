@@ -1,0 +1,12 @@
+{
+  "version": "0.1.0",
+  "configurations": [
+    {
+      "name": "debug streamlit",
+      "type": "python",
+      "request": "launch",
+      "program": "/Users/kurosh/.pyenv/versions/3.9.0/bin/streamlit",
+      "args": ["run", "vis.py"]
+    }
+  ]
+}
